@@ -26,7 +26,7 @@ The Liberty files are present in the library path,
 
 • In the terminal, initialise the tools with the following commands if a new terminal is being
 used.
-
+ 
 ◦ csh
 
 ◦ source /cadence/install/cshrc
